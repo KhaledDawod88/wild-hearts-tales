@@ -1,0 +1,50 @@
+{
+ "title": "Ember: The Long Way Home",
+ "lang": "en",
+ "caption_lang": "ar",
+ "voice": "en-US-GuyNeural",
+ "rate": "-10%",
+ "music": "auto",
+ "scenes": [
+  {
+   "clip": "01.mp4",
+   "text": "Ember was born where the wind never stopped running, and his herd ran with it.",
+   "caption": "وُلد إمبر حيث لا تتوقف الريح عن الجري، وكان قطيعه يجري معها."
+  },
+  {
+   "clip": "02.mp4",
+   "text": "Then one night, a storm tore the canyon apart. When the thunder faded, the herd was gone.",
+   "caption": "وفي ليلة، مزقت العاصفة الوادي. وحين هدأ الرعد، كان القطيع قد اختفى."
+  },
+  {
+   "clip": "03.mp4",
+   "text": "He searched the empty plains for days, always looking back toward the mountains.",
+   "caption": "بحث في السهول الفارغة أياماً، وهو ينظر دائماً نحو الجبال."
+  },
+  {
+   "clip": "04.mp4",
+   "text": "Men found him first. A rope took his freedom, and the corral took his name.",
+   "caption": "أمسك به الرجال أولاً. حبل أخذ حريته، وسياج أخذ اسمه."
+  },
+  {
+   "clip": "05.mp4",
+   "text": "He pulled iron and stone for the railroad. Every step was heavy, and every night was silent.",
+   "caption": "جرّ الحديد والحجر لأجل السكة. كل خطوة ثقيلة، وكل ليلة صامتة."
+  },
+  {
+   "clip": "06.mp4",
+   "text": "But in his dreams, a gentle voice still called him home, and the meadow was still warm.",
+   "caption": "لكن في أحلامه، صوت حنون ما زال ينادي: تعال إلى البيت، والمرج ما زال دافئاً."
+  },
+  {
+   "clip": "07.mp4",
+   "text": "One storm, one snapped rope, and Ember ran. He never stopped. He never looked back.",
+   "caption": "انقطع الحبل، فانطلق إمبر. لم يتوقف، ولم يلتفت."
+  },
+  {
+   "clip": "08.mp4",
+   "text": "On a quiet ridge at sunrise, he heard a neigh. The herd had never stopped waiting for him.",
+   "caption": "على تلة هادئة عند الفجر، سمع صهيلاً. القطيع لم يتوقف عن انتظاره."
+  }
+ ]
+}
