@@ -1,0 +1,28 @@
+{
+  "title": "Sable and the Silver River",
+  "lang": "en", "caption_lang": "ar",
+  "voice": "en-US-GuyNeural", "rate": "-8%", "music": "auto",
+  "scenes": [
+    {"image": "ep02_s01.png", "motion": "pull", "particles": "dust", "amp": 2.2,
+     "text": "Sable was a wolf cub who grew up beside a silver river.",
+     "caption": "كان سيبل جروَ ذئبٍ كبر بجانب نهرٍ فضي."},
+    {"image": "ep02_s02.png", "motion": "push", "particles": "embers", "amp": 2.6,
+     "text": "One night, a flood tore through the forest and carried him away from his pack.",
+     "caption": "في ليلة واحدة، اجتاح الفيضان الغابة وأبعده عن قطيعه."},
+    {"image": "ep02_s03.png", "motion": "pan_left", "particles": "dust", "amp": 2.0,
+     "text": "He woke alone on a strange bank, with no one to call.",
+     "caption": "استيقظ وحيدًا على ضفةٍ غريبة، بلا أحد ينادي عليه."},
+    {"image": "ep02_s04.png", "motion": "push", "particles": "dust", "amp": 2.4,
+     "text": "He learned to hunt alone. He missed, and he tried again.",
+     "caption": "تعلم الصيد وحده. أخطأ، ثم حاول من جديد."},
+    {"image": "ep02_s05.png", "motion": "pan_right", "particles": "dust", "amp": 2.0,
+     "text": "At night he remembered his mother's warmth, and the river singing.",
+     "caption": "في الليل تذكر دفء أمه، وغناء النهر."},
+    {"image": "ep02_s06.png", "motion": "push", "particles": "dust", "amp": 2.8,
+     "text": "Stronger now, he followed the river, mile after mile.",
+     "caption": "صار أقوى، فتتبع النهر، ميلًا بعد ميل."},
+    {"image": "ep02_s07.png", "motion": "pull", "particles": "dust", "amp": 2.4,
+     "text": "Then, under the full moon, he heard a howl. His pack had never stopped calling.",
+     "caption": "وتحت القمر المكتمل، سمع عواءً. قطيعه لم يتوقف عن مناداته."}
+  ]
+}
