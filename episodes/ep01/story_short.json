@@ -1,0 +1,29 @@
+{
+  "title": "Ember: The Long Way Home (short format)",
+  "lang": "en", "caption_lang": "ar",
+  "voice": "en-US-GuyNeural", "rate": "-8%", "music": "auto",
+  "_note": "FLOW clips = 5 x 4 s Veo 3.1 Lite (10 credits each = 50 credits, one day). Scenes without a clip use 'image' and are animated locally for free. A scene with a clip ignores 'image'.",
+  "scenes": [
+    {"image": "ep01_s01.png", "motion": "pull", "particles": "dust",
+     "text": "Ember was born where the wind never stopped running.",
+     "caption": "ولد إمبر حيث لا تتوقف الرياح عن الجري."},
+    {"clip": "02.mp4", "image": "ep01_s02.png", "motion": "push", "particles": "embers",
+     "text": "One night, a storm tore the canyon apart, and his herd was gone.",
+     "caption": "في ليلة واحدة مزقت العاصفة الوادي، واختفى قطيعه."},
+    {"clip": "04.mp4", "image": "ep01_s04.png", "motion": "push", "particles": "dust",
+     "text": "Men found him. A rope took his freedom.",
+     "caption": "وجده رجال، وسلبه حبلٌ حريته."},
+    {"image": "ep01_s06.png", "motion": "pan_right", "particles": "dust",
+     "text": "But in his dreams, a gentle voice still called him home.",
+     "caption": "لكن في أحلامه، كان صوت رقيق ما زال ينادي عليه ليعود."},
+    {"clip": "07.mp4", "image": "ep01_s07.png", "motion": "push", "particles": "dust",
+     "text": "One storm, one snapped rope, and Ember ran.",
+     "caption": "عاصفة واحدة، وحبل ينقطع، وإمبر يركض."},
+    {"clip": "08.mp4", "image": "ep01_s08.png", "motion": "pull", "particles": "dust",
+     "text": "On a quiet ridge at sunrise, he heard a neigh. The herd had never stopped waiting.",
+     "caption": "على تلة هادئة عند الشروق، سمع صهيلًا. القطيع لم يتوقف عن الانتظار."},
+    {"clip": "03.mp4", "image": "ep01_s03.png", "motion": "push", "particles": "dust",
+     "text": "Ember was home.",
+     "caption": "عاد إمبر إلى بيته."}
+  ]
+}
